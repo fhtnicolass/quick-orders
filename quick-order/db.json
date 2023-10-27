@@ -1,0 +1,68 @@
+{
+    "menu": [
+        {
+            "name": "Bruschetta",
+            "description": "Toasted bread topped with a mixture of chopped tomatoes, basil, garlic, and olive oil.",
+            "price": 6,
+            "servingSize": "2 pieces",
+            "imageUrl": "https://drive.google.com/file/d/1EYwE93yeCIreTNxhL4LR2JjorUf5qlpu/view?usp=drive_link",
+            "category": "Starters"
+        },
+        {
+            "name": "Caprese Salad",
+            "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic reduction.",
+            "price": 9,
+            "servingSize": "1 plate",
+            "imageUrl": "https://drive.google.com/file/d/11k1IUFBqdT8hUlScz-N9ibvX8ozG8NIL/view?usp=drive_link",
+            "category": "Starters"
+        },
+        {
+            "name": "Arancini",
+            "description": "Deep-fried risotto balls stuffed with cheese and served with marinara sauce.",
+            "price": 8,
+            "servingSize": "3 pieces",
+            "imageUrl": "https://drive.google.com/file/d/1QcjNKeJXAi_5zys_Um96MAfqZwkGD6ae/view?usp=drive_link",
+            "category": "Starters"
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "description": "Pasta tossed with pancetta, egg, pecorino cheese, and black pepper.",
+            "price": 14,
+            "servingSize": "1 plate",
+            "imageUrl": "https://drive.google.com/file/d/1FjaodVBV9sQ35fHhjS67-6KtLdnD690-/view?usp=drive_link",
+            "category": "Main Course Dishes"
+        },
+        {
+            "name": "Lasagna alla Bolognese",
+            "description": "Layered pasta sheets with beef ragù, béchamel sauce, and Parmesan cheese.",
+            "price": 16,
+            "servingSize": "1 slice",
+            "imageUrl": "https://drive.google.com/file/d/1pmA3FYp4liX9NHZak3YTwDIX01cp8zsX/view?usp=drive_link",
+            "category": "Main Course Dishes"
+        },
+        {
+            "name": "Risotto ai Funghi",
+            "description": "Creamy rice dish cooked with assorted mushrooms and Parmesan cheese.",
+            "price": 15,
+            "servingSize": "1 bowl",
+            "imageUrl": "https://drive.google.com/file/d/1JBsl8P2usZv0VMvO5ez3yXeQ-36gbgq1/view?usp=drive_link",
+            "category": "Main Course Dishes"
+        },
+        {
+            "name": "Tiramisu",
+            "description": "Layered dessert made with coffee-soaked ladyfingers, mascarpone cheese, cocoa, and whipped cream.",
+            "price": 8,
+            "servingSize": "1 slice",
+            "imageUrl": "https://drive.google.com/file/d/18Yl55nfINHKlBXetIN_U8IfQi6b4q9iI/view?usp=drive_link",
+            "category": "Desserts"
+        },
+        {
+            "name": "Panna Cotta",
+            "description": "Creamy custard-like dessert topped with berry coulis.",
+            "price": 7,
+            "servingSize": "1 cup",
+            "imageUrl": "https://drive.google.com/file/d/1XNUV36efmNaF2Lc0zHrzYE5QCTv9rBdp/view?usp=drive_link",
+            "category": "Desserts"
+        }
+    ]
+}
